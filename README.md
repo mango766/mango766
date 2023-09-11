@@ -1,10 +1,9 @@
 ### Hi,coders,I'm Eason 👋
 
-<details>
   计算机研二在读，方向为计算机视觉，欢迎交流打扰！🤩🤩
-</details>
+<!->
 **mango766/mango766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
