@@ -1,7 +1,11 @@
 ### Hi,coders,I'm Eason 👋
 
   计算机研二在读，方向为计算机视觉，欢迎交流打扰！🤩🤩
-
+  <h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Eason祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
