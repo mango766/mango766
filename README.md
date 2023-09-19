@@ -9,6 +9,9 @@
 </h1>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   <div align="center">
+     </div>
+  </div>
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,8 +20,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-    </div>
-  </div>
+   
 
 <div align="center">
 <img align="center" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mango766&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
