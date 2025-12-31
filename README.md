@@ -1,6 +1,6 @@
 ### Hi, I'm Eason 🦁🦁👋
 
-  计算机研二在读，方向为计算机视觉，主修语言为Java和Python，欢迎交流打扰！🤩🤩
+  目前主攻智能体开发，欢迎交流打扰！🤩🤩
 <div align="center">
   <h1 align="center">
   <a href="https://sunguoqi.com/">
