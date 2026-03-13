@@ -12,8 +12,8 @@
      </div>
   </div>
   
-- 🌱 I’m currently learning Java GPT
-- 📫 How to reach me: 2895907108@qq.com
+
+- 📫 How to reach me: easonysliu@gmail.com
 
 
    
